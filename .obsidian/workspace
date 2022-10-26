@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "18be84370e9569e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7bc3c7f307cfbcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Computing 2022-2023/Concurrency/Con_2022-10-13.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5cb74b621744742",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde93abea88f77e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9d0084ed9351e27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8e677d177096ad3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2c9f243753c3154d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ae3bc512b381b89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ff0bababaa72e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c293da876fd8a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computing 2022-2023/Concurrency/Con_2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5253fdfaec264d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computing 2022-2023/Concurrency/Con_2022-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e683bedcd5556704",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b08619e57fb822f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computing 2022-2023/Concurrency/Con_2022-10-13.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c7bc3c7f307cfbcd",
+  "lastOpenFiles": [
+    "Computing 2022-2023/Concurrency/Con_2022-10-11.md",
+    "Computing 2022-2023/Operations Research/OR_2022-10-10.md",
+    "Computing 2022-2023/Concurrency/CPUs.png",
+    "Computing 2022-2023/Type Systems/TS_2022-10-12.md",
+    "Computing 2022-2023/Type Systems/TS_2022-10-10.md",
+    "Programming Nuggets/Fixpoint Operator.md",
+    "Computing 2022-2023/Individual Projects.md",
+    "Computing 2022-2023/2022-10-03 Welcome.md",
+    "Welcome!.md"
+  ]
+}

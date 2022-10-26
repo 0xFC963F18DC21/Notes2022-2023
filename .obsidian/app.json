@@ -1,0 +1,9 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "useTab": false
+}
