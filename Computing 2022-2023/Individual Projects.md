@@ -1,0 +1,26 @@
+- A lot of info is available on the wiki (https://wiki.imperial.ac.uk/display/docteaching/Undergraduate+Projects).
+- Expected workload is ~500 hours, or 1/3 of a year's worth of work.
+- This is a **HEAVILY**-weighted component of your degree.
+- This is also a chance to show off skills for research / employment.
+- Must pass the project at 40% and up. There is no compensation.
+- Some selections for projects are already available as of 2022/10/05.
+- Deadline for project selection is 2022/10/27 14:00.
+- Deadline for the interim report and ethics checklist is 2023/01/26 14:00.
+- Deadline for the final report is 2023/06/19 14:00.
+- Presentations happen on the 26th and 27th of June 2023.
+- You can either choose a staff proposal or make a self-proposal (after it makes it through auditing and convincing a supervisor to take the project).
+- Talk to the supervisor of a project before making a selection for their project, or find a supervisor for your own proposals and see if they agree to supervise you.
+- You will need **3** (do not choose just 1 or 2) projects in the shortlist with at least 2 different supervisors across all three.
+- Be careful about NDAs. You will be crippled in potential marks if they are required.
+- Most reports for projects requires the project repo link, and the presentation and demo occur near the end of the time for this project.
+- **Don't** choose something too easy or too hard.
+- **Don't** overload your schedule.
+- **Please don't** plagiarise code or report contents. Always acknowledge your sources.
+- **Do** develop your writing style for the reports.
+- **Do** analyse the distinguished projects to see if you can get inspired on how to do certain things.
+- **Do** ask questions on the Edstem board.
+
+Currently, with my shortlisted projects, I need to contact:
+- Thomas Lancaster
+- Alastair Donaldson
+- Anthony Field
