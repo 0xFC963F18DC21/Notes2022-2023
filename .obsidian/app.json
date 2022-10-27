@@ -5,5 +5,9 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "showFrontmatter": true,
-  "useTab": false
+  "useTab": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ]
 }
