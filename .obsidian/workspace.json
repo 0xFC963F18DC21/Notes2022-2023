@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8613701a67e9ad58",
+        "id": "3dfaa21f1999376e",
         "type": "tabs",
         "children": [
           {
-            "id": "0c130117f744fb65",
+            "id": "1c42f0ef48117d3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing 2022-2023/Concurrency/Con_2022-10-27.md",
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ae3bc512b381b89f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing 2022-2023/Concurrency/Con_2022-10-27.md",
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing 2022-2023/Concurrency/Con_2022-10-27.md",
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing 2022-2023/Concurrency/Con_2022-10-27.md"
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-07.md"
               }
             }
           }
@@ -138,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c130117f744fb65",
+  "active": "1c42f0ef48117d3a",
   "lastOpenFiles": [
+    "Computing 2022-2023/Concurrency/Con_2022-11-03.md",
+    "Computing 2022-2023/Concurrency/COHbp3.png",
+    "Computing 2022-2023/Concurrency/Con_2022-11-01.md",
+    "Computing 2022-2023/Type Systems/TS_2022-10-26.md",
+    "Programming Nuggets/Fixpoint Operator.md",
+    "Computing 2022-2023/Type Systems/TS_2022-11-02.md",
+    "Computing 2022-2023/Concurrency/Con_2022-10-27.md",
     "Computing 2022-2023/Concurrency/Con_2022-10-25.md",
     "Computing 2022-2023/Concurrency/TSMF.png",
-    "Computing 2022-2023/Concurrency/Con_2022-10-27.md",
-    "Computing 2022-2023/Type Systems/TS_2022-10-26.md",
-    "Computing 2022-2023/Type Systems/TS_2022-10-24.md",
-    "Programming Nuggets/Fixpoint Operator.md",
-    "Computing 2022-2023/Type Systems/UnifyContexts.png",
-    "Misc/Scratches.md",
-    "Computing 2022-2023/Type Systems/TS_2022-10-17_2022-10-19.md",
-    "Computing 2022-2023/Concurrency/Con_2022-10-18_2022-10-20.md"
+    "Computing 2022-2023/Type Systems/TS_2022-10-24.md"
   ]
 }
