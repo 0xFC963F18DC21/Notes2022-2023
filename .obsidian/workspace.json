@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computing 2022-2023/Type Systems/TS_2022-11-23.md",
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computing 2022-2023/Type Systems/TS_2022-11-23.md",
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computing 2022-2023/Type Systems/TS_2022-11-23.md"
+                "file": "Computing 2022-2023/Type Systems/TS_2022-11-21.md"
               }
             }
           }
@@ -156,10 +156,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "15269906ea0168dc",
+  "active": "a55dd06112a0779d",
   "lastOpenFiles": [
-    "Computing 2022-2023/Type Systems/TS_2022-11-21.md",
     "Computing 2022-2023/Type Systems/TS_2022-11-23.md",
+    "Computing 2022-2023/Type Systems/TS_2022-11-21.md",
     "Computing 2022-2023/Concurrency/Con_2022-11-17.md",
     "Computing 2022-2023/Concurrency/Con_2022-11-22.md",
     "Computing 2022-2023/Type Systems/TS_2022-10-17_2022-10-19.md",
